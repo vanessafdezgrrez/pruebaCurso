@@ -8,7 +8,7 @@ import java.sql.Statement;
 import javax.sql.rowset.CachedRowSet;
 import javax.sql.rowset.RowSetFactory;
 import javax.sql.rowset.RowSetProvider;
-// hola
+
 /**
  * Para acceder y trabajar con la base de datos SQLServer.
  */
